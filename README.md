@@ -4,3 +4,4 @@ Test repository
 
 master edt
 
+Lars' example
